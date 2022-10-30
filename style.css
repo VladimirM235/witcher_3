@@ -100,6 +100,7 @@ p {
 }
 .burger-menu:hover .line::after {
   transform: translateX(0);
+  background-color: rgba(0, 128, 0, 0.541);
 }
 
 .menu {
